@@ -1,5 +1,5 @@
 <?php 
-$your_email ='erica@ericawolfsonart.com';// <<=== update to your email address
+$your_email ='greenmachine777@gmail.com';// <<=== update to your email address
 
 session_start();
 $errors = '';
@@ -87,12 +87,13 @@ function IsInjected($str)
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<!-- tab icon and shortcut icon -->
-		<link rel="icon" type="image/png" href="Art/Erica_logo.png"/>
-		<link rel="shortcut icon" href="Art/Erica_logo.png" />
+		<link rel="icon" type="image/png" href="Art/favicon.png"/>
+		<link rel="shortcut icon" href="Art/favicon.png" />
+
 		<!-- style for submit button -->
 		<!-- define some style elements-->
 		<style>
-			label, a, body 
+			label, body 
 			{
 				font-family : Arial, Helvetica, sans-serif;
 				font-size : 12px; 
@@ -113,7 +114,7 @@ function IsInjected($str)
 			}
 			.navLinks {
 				style="font-family: 'Oswald', sans-serif; 
-				font-size: 1.2em;"
+				font-size: 1.2em;
 			}
 		</style>
 		<!-- submit button style -->
@@ -167,7 +168,7 @@ function IsInjected($str)
 		    <div id="nav">
 		      <ul>
 		        <li><a class="navLinks" href="index.html">Home</a></li>
-		        <li><a class="navLinks" href="gallery1.html">Gallery</a></li>
+		        <li><a class="navLinks" href="gallery.html">Gallery</a></li>
 		        <li><a class="navLinks" href="about.html">About</a></li>
 		        <li><a class="navLinks active" href="contact.php">Contact</a></li>
 		      </ul>
@@ -217,7 +218,7 @@ function IsInjected($str)
 					<div class="af-outer af-required">
 						<div class="af-inner">
 							<img src="captcha_code_file.php?rand=<?php echo rand(); ?>" id='captchaimg' ><br>
-							<label for='message' style="font-size: .5em">Enter the code above here</label><br>
+							<label for='message' style="font-size: .6em">Enter the code above here</label><br>
 							<input id="6_letters_code" name="6_letters_code" type="text"><br>
 							<small>Can't read the image? click <a style="color:blue" href='javascript: refreshCaptcha();'>here</a> to refresh</small>
 						</div>
