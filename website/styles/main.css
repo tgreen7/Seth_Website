@@ -89,59 +89,6 @@
 	border: 1px solid black;
 }
 
-
-.paint, .paintWide {
-	border: 2px solid rgba(255, 153, 51, 0.7);
-	position: relative;
-	z-index: 2147483647;
-}
-
-.paint:hover, .paintWide:hover {
-	cursor: pointer; 
-	cursor: hand;
-}
-
-
-.img {
-	max-width: 100%;
-}
-
-.clicked {
-	
-}
-
-.clicked_paintWide {
-
-}
-
-.backGallery {
-	display: none;
-}
-
-.caption {
-display: inline;
-}
-
-
-
-#scrollup{
-    background-image: url('../Art/up-arrow.png');
-    width: 70px;
-    height: 70px;
-    position:fixed;
-    opacity: .8;
-    bottom:50px;
-    right:50px;
-    display:none;
-    text-indent:-9999px;
-    z-index: 2147483648;
-}
-
-#scrollup:hover {
-	cursor: pointer; 
-	cursor: hand;
-}
-
 .aboutPanel {
 	margin-left: auto;
     margin-right: auto;
@@ -179,16 +126,6 @@ display: inline;
 .aboutPanel .panelBody {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	padding: 10px 20px;
-}
-
-.ericaPic {
-	float: left;
-	border: 2px solid #696373;
-	margin-right: 20px;
-	margin-bottom: 10px;
-	width: 45%;
-	height: auto;
-
 }
 
 .statement {
@@ -253,49 +190,8 @@ display: inline;
   	width: 40%;
   }
   
-  .ericaPic {
-	width: 30%;
-  }
-
-  .clicked {
-  	position: fixed; /* or absolute */
-  	top: 12%;
-  	left: 35%;
-  	width: 500px;
-  	height: 500px;
-  }
-
-  .clicked_paintWide {
-  	position: fixed; /* or absolute */
-  	top: 12%;
-  	left: 32%;
-  	width: 700px;
-  	height: 500px;
-  }
-
-  .backGallery {
-  	display: inline;
-  	margin-top: 10px;
-  	margin-left: 20px;
-  	height: 200%;
-  }
-
-  .caption {
-	display: none;
-  }
-
-  .captionClicked {
-	display: inline;
-  }
-  
 }
 
-
-@media screen and (max-width: 599px) {
-	.displayNone {
-		display: none;
-	}
-}
 
 .contactForm {
 	padding-top: 40px;
@@ -306,47 +202,4 @@ display: inline;
 @font-face {
     font-family: 'Adine Kirnberg'; /*a name to be used later*/
     src: url('../Fonts/Adine_Kirnberg.ttf'); /*URL to font*/
-}
-
-#galPages ul {
-	list-style: none;
-	/*background-color: #444;*/
-	margin-top: 10px;
-	text-align: center;
-	padding: 0;
-	/*margin: 0 300px 0 300px;*/
-}
-
-#galPages li {
-	font-family: 'Oswald', sans-serif;
-	width: 75px;
-	border-bottom: none;
-	height: 25px;
-	line-height: 25px;
-	font-size: 1em;
-	display: inline-block;
-	margin-left: 2px;
-	margin-top: 2px;
-	margin-bottom: 2px;
-	background-color: #7A29CC;
-}
- 
-#galPages a {
-	text-decoration: none;
-	color: #fff;
-	display: block;
-	transition: .3s background-color;
-}	
-
-#galPages a:hover {
-  text-decoration: none;
-  color: white;
-  background-color: #0099FF;
-}
-
- 
-#galPages a.active {
-  background-color: #000099;
-  /*color: #444;*/
-  cursor: default;
 }

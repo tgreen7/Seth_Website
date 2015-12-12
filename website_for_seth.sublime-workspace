@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifTrue"
+			],
+			[
+				"as",
+				"asString"
+			],
+			[
+				"zero",
+				"zerodel"
+			],
+			[
+				"base",
+				"base_name"
+			],
+			[
+				"ou",
+				"output_ast"
+			],
+			[
+				"dump",
+				"dump_astree_rec"
+			],
+			[
+				"yyparse",
+				"yyparse_astree"
+			],
+			[
+				"ast_out",
+				"ast_out_file"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"high",
+				"highlight"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"A",
+				"ALLSRC"
+			],
+			[
+				"file",
+				"filenameNoExt"
+			],
+			[
+				"filename",
+				"filenameNoExt"
+			],
+			[
+				"str",
+				"output_str"
+			],
+			[
+				"yyf",
+				"yy_flex_debug"
+			],
+			[
+				"outpu",
+				"output_tok"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"get",
+				"get_exitstatus"
+			],
+			[
+				"tok_out",
+				"tok_out_name"
+			],
+			[
+				"toke",
+				"tok_name"
+			],
+			[
+				"tok",
+				"tok_out_file"
+			],
+			[
+				"P",
+				"PARTNER"
+			],
+			[
+				"L",
+				"LSOURCES"
+			],
+			[
+				"str_ou",
+				"str_out_name"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"e",
+				"EXECBIN"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"syt",
+				"style	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"phys",
+				"physics.start()	physics"
+			],
+			[
+				"set",
+				"display.setStatusBar()	display"
+			],
+			[
+				"cont",
+				"display.contentWidth	display"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"bo",
+				"blockquote	<blockquote>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+				"Property List"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 511.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set small	",
+				"Set Syntax: Smalltalk"
+			],
+			[
+				"aaapackagedev",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"aa",
+				"z:AAAPackageDev: New Build System"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"s c",
+				"Set Syntax: C"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set coron",
+				"Set Syntax: Corona SDK Lua"
+			],
+			[
+				"set coro",
+				"Set Syntax: Corona SDK Lua"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 1040.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Taoh/Desktop/README.txt",
+		"/C/Users/Taoh/Desktop/PARTNER",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/arithmetic.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/phuffman/phuffman.perl",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/catfile.st",
+		"/C/Users/Taoh/Desktop/hzip.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix2.ic.ucsc.edu/SCORE",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix2.ic.ucsc.edu/hzip.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix2.ic.ucsc.edu/SCORE",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix2.ic.ucsc.edu/hzip.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/tree.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/bitstream.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/char1.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/collatz.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/extendstream.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/filein.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/hello.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/priority.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/Examples/string.st",
+		"/C/Users/Taoh/Desktop/asg3-smalltalk-hzip/.score/William_Shakespeare.txt",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/4/tmgreen@unix2.ic.ucsc.edu/.bashrc",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix2.ic.ucsc.edu/hzip.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix2.ic.ucsc.edu/.bashrc",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix2.ic.ucsc.edu/.bashrc",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/8/tmgreen@unix2.ic.ucsc.edu/charfreq.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix2.ic.ucsc.edu/binarydump.c",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix2.ic.ucsc.edu/hzip.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/5/tmgreen@unix2.ic.ucsc.edu/arithmetic.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/6/tmgreen@unix2.ic.ucsc.edu/bitstream.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/7/tmgreen@unix2.ic.ucsc.edu/catfile.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/22/tmgreen@unix2.ic.ucsc.edu/histogram.a1",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix2.ic.ucsc.edu/histogram.a2",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/21/tmgreen@unix2.ic.ucsc.edu/histogram.a2",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/23/tmgreen@unix2.ic.ucsc.edu/histogram.t1",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/9/tmgreen@unix2.ic.ucsc.edu/cmdline.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/10/tmgreen@unix2.ic.ucsc.edu/collatz.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/11/tmgreen@unix2.ic.ucsc.edu/divide.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/12/tmgreen@unix2.ic.ucsc.edu/extendstream.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/13/tmgreen@unix2.ic.ucsc.edu/filein.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/14/tmgreen@unix2.ic.ucsc.edu/hello.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/15/tmgreen@unix2.ic.ucsc.edu/intsort.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/16/tmgreen@unix2.ic.ucsc.edu/outbits.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/17/tmgreen@unix2.ic.ucsc.edu/priority.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/18/tmgreen@unix2.ic.ucsc.edu/sortedcollection.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/19/tmgreen@unix2.ic.ucsc.edu/tree.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/20/tmgreen@unix2.ic.ucsc.edu/writebits.st",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix2.ic.ucsc.edu/.bashrc",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix2.ic.ucsc.edu/phuffman.perl",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix2.ic.ucsc.edu/.htpasswd",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix2.ic.ucsc.edu/SCORE.pair",
+		"/C/Users/Taoh/Desktop/smalltalk_test.st",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/Smalltalk.JSON-tmLanguage",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/sublime-smalltalk-syntax/Smalltalk.JSON-tmLanguage",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/sublime-smalltalk-syntax/README.md",
+		"/C/Users/Taoh/Desktop/CMPS 183_notes.py",
+		"/C/Users/Taoh/Desktop/git/Website_for_Seth/website/styles/main.css",
+		"/C/Users/Taoh/Desktop/git/Website_for_Seth/website/index.html",
+		"/C/Users/Taoh/Desktop/git/Website_for_Seth/website/about.html",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix2.ic.ucsc.edu/histogram.t1",
+		"/C/Users/Taoh/Downloads/bigint.ml",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/8/tmgreen@unix2.ic.ucsc.edu/test6-loadstore.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/7/tmgreen@unix2.ic.ucsc.edu/test5-underflow.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/6/tmgreen@unix2.ic.ucsc.edu/test4-exponent.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/5/tmgreen@unix2.ic.ucsc.edu/test3-muldivrem.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/9/tmgreen@unix2.ic.ucsc.edu/maindc.ml",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/4/tmgreen@unix2.ic.ucsc.edu/test2-subtract.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix2.ic.ucsc.edu/test1-addition.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix2.ic.ucsc.edu/test0-stack.in",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix2.ic.ucsc.edu/trimzeros.ml",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix2.ic.ucsc.edu/bigint.ml",
+		"/C/Users/Taoh/Desktop/code/bigint.ml",
+		"/C/Users/Taoh/Desktop/git/Website/website/styles/main.css",
+		"/C/Users/Taoh/Desktop/git/Website/website/gallery1.html",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/6/tmgreen@unix.ic.ucsc.edu/scanner.l",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/4/tmgreen@unix.ic.ucsc.edu/Makefile",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix.ic.ucsc.edu/auxlib.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix.ic.ucsc.edu/main.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix.ic.ucsc.edu/astree.h",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix.ic.ucsc.edu/astree.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/5/tmgreen@unix.ic.ucsc.edu/parser.y",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/4/tmgreen@unix.ic.ucsc.edu/main.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/7/tmgreen@unix.ic.ucsc.edu/parser.y",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/8/tmgreen@unix.ic.ucsc.edu/scanner.l",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/10/tmgreen@unix.ic.ucsc.edu/lyutils.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/5/tmgreen@unix.ic.ucsc.edu/Makefile",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/9/tmgreen@unix.ic.ucsc.edu/stringset.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix.ic.ucsc.edu/lyutils.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix.ic.ucsc.edu/lyutils.h",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/6/tmgreen@unix.ic.ucsc.edu/auxlib.h",
+		"/C/Users/Taoh/Google Drive/Jobs/cover_letter.txt",
+		"/C/Users/Taoh/Google Drive/Jobs/Taoh_Green.txt",
+		"/C/Users/Taoh/Desktop/01-hello.ast",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/1/tmgreen@unix.ic.ucsc.edu/main.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/4/tmgreen@unix.ic.ucsc.edu/lyutils.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/5/tmgreen@unix.ic.ucsc.edu/lyutils.h",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/2/tmgreen@unix.ic.ucsc.edu/astree.h",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/3/tmgreen@unix.ic.ucsc.edu/astree.cpp",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/6/tmgreen@unix.ic.ucsc.edu/parser.y",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Taoh/Documents/MobaXterm/slash/RemoteFiles/0/tmgreen@unix.ic.ucsc.edu/main.cpp",
+		"/C/Users/Taoh/Desktop/git/Website/website/css/SamsungGrid/component.css",
+		"/C/Users/Taoh/Desktop/git/Website/website/css/SamsungGrid/demo.css",
+		"/C/Users/Taoh/Desktop/git/Website/website/index.html",
+		"/C/Users/Taoh/Desktop/git/Website/website/index2.html",
+		"/C/Users/Taoh/Desktop/git/Website/website/css/SamsungGrid/normalize.css",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Taoh/Downloads/SamsungGrid/SamsungGrid/README.md",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Taoh/Desktop/git/cmps111/Assignments/asg1/myshell.c",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/Theme - SoDaReloaded/SoDaReloaded.sublime-theme",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_swapping.sublime-settings",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/bh_wrapping.sublime-settings",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/bh_swapping.sublime-settings",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Taoh/Desktop/git/AngularJS/angular.min.js",
+		"/C/Users/Taoh/Google Drive/Sublime Settings/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Taoh/Desktop/sodareloaded",
+		"/C/Users/Taoh/Desktop/git/cmps104a/asg2/code/main.cpp",
+		"/C/Users/Taoh/Desktop/git/Website/website/send_form_email.php",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Taoh/Desktop/git/cmps104a/grading",
+		"/C/Users/Taoh/Desktop/git/Website/website/about.html",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/Theme - SoDaReloaded/README.md",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/Theme - SoDaReloaded/Widget - SoDaReloaded.sublime-settings",
+		"/C/Users/Taoh/AppData/Roaming/Sublime Text 3/Packages/User/SoDaReloaded.sublime-theme",
+		"/C/Users/Taoh/Downloads/CS104-Exam1/CS104 Exam1/2014q4-exam1-sol.pdf"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			"",
+			"<current file>",
+			"<current-file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"encodetable",
+			"index",
+			"zeroarray",
+			"freqtable",
+			"parseFile",
+			"parse",
+			"string_of_bigint",
+			"\\n",
+			"\\",
+			"sub'",
+			"LINESIZE",
+			"yyparse_astree",
+			"ast_out_name",
+			");\n",
+			"change_symbol",
+			"fix_call",
+			"tok",
+			"yyparse",
+			"yylex",
+			"Gridmod",
+			"fonts",
+			"selector",
+			"theme",
+			"bracket",
+			"true",
+			"140",
+			"tab_label",
+			"arg",
+			"allsrc",
+			"dump_node",
+			"tok_out_file",
+			"field",
+			"SUBMITS",
+			"Submits",
+			"SUBMITS",
+			"oc",
+			"root",
+			"tok_root",
+			"ROOT",
+			"yyin",
+			"yylex()",
+			"invalid",
+			"yy_flex_debug",
+			"--acceptin",
+			"--accepting",
+			"strdup",
+			"outputName",
+			"str_out_name",
+			"root",
+			"new_astree",
+			"tok_",
+			"vector<string> included_filenames;\n",
+			"allsrc",
+			"# Taoh Green (tmgreen@ucsc.edu), Bryce Paine (bpaine@ucsc.edu)\n\nEXECBIN   = oc\nMKFILE    = Makefile\nDEPSFILE  = ${MKFILE}.deps\nNOINCLUDE = ci clean spotless\nNEEDINCL  = ${filter ${NOINCLUDE}, ${MAKECMDGOALS}}\nVALGRIND  = valgrind --leak-check=full --show-reachable=yes\nPROJECT   = cmps104a-wm.s15 asg2\n\n#\n# Definitions of list of files:\n#\nHSOURCES  = auxlib.h stringset.h lyutils.h astree.h\nCSOURCES  = auxlib.cpp oc.cpp stringset.cpp lyutils.cpp astree.cpp\nLSOURCES  = scanner.l\nYSOURCES  = parser.y\nETCSRC    = README PARTNER ${MKFILE} ${DEPSFILE}\nCLGEN     = yylex.cc\nHYGEN     = yyparse.h\nCYGEN     = yyparse.cc\nCGENS     = ${CLGEN} ${CYGEN}\nALLGENS   = ${HYGEN} ${CGENS}\nOBJECTS   = ${CSOURCES:.cc=.o} ${CYGEN:.cc=.o}\nLREPORT   = yylex.output\nYREPORT   = yyparse.output\nIREPORT   = ident.output\nREPORTS   = ${LREPORT} ${YREPORT} ${IREPORT}\nALLSRC    = ${ETCSRC} ${YSOURCES} ${LSOURCES} ${HSOURCES} ${CSOURCES}\nTESTINS   = ${wildcard test?.in}\nLISTSRC   = ${ALLSRC} ${HYGEN}\n\n# what to submit\nSUBMITS   = ${ALLSRC}\n\n\n#\n# Definitions of the compiler and compilation options:\n#\nGCC       = g++ -g -O0 -Wall -Wextra -std=gnu++11\nMKDEPS    = g++ -MM -std=gnu++11\n\n#\n# The first target is always ``all'', and hence the default,\n# and builds the executable images\n#\nall: ${EXECBIN}\n\n#\n# Build the executable image from the object files.\n#\n${EXECBIN}: ${OBJECTS} ${CLGEN} ${CYGEN} ${HYGEN}\n	${GCC} -o${EXECBIN} ${OBJECTS}\n	ident ${OBJECTS} ${EXECBIN} >${IREPORT}\n\n\n%.o: %.cpp\n	${GCC} -c $<\n\n\n#\n# Build the scanner.\n#\n${CLGEN}: ${LSOURCES}\n	flex --outfile=${CLGEN} ${LSOURCES} 2>${LREPORT}\n	- grep -v '^  ' ${LREPORT}\n\n#\n# Build the parser.\n#\n${CYGEN} ${HYGEN}: ${YSOURCES}\n	bison --defines=${HYGEN} --output=${CYGEN} ${YSOURCES}\n\n#\n# Check directory into git repository.\n#\nci:\n	git add ${ALLSRC} ${TESTINS}\n	git commit -m \"$m\"\n\n#\n# Clean and spotless remove generated files.\n#\nclean:\n	- rm -f ${OBJECTS} ${ALLGENS} ${REPORTS} ${DEPSFILE} core\n\nspotless: clean\n	- rm -f ${EXECBIN}\n\n\n#\n# Build the dependencies file using the C preprocessor\n#\ndeps: ${ALLCSRC}\n	@ echo \"# ${DEPSFILE} created `date` by ${MAKE}\" >${DEPSFILE}\n	${MKDEPS} ${ALLCSRC} >>${DEPSFILE}\n\n${DEPSFILE}:\n	@ touch ${DEPSFILE}\n	${MAKE} --no-print-directory deps\n\n#\n# TEST\n#\ntests: ${EXECBIN}\n	touch ${TESTINS}\n	make --no-print-directory ${TESTINS:.in=.out}\n\n%.out %.err: %.in ${EXECBIN}\n	( ${VALGRIND} ${EXECBIN} -ly -@@ $< \\\n	;  echo EXIT STATUS $$? 1>&2 \\\n	) 1>$*.out 2>$*.err\n\n#\n# Runs checksource on files to submit\n#\ncheck:\n	checksource ${SUBMITS}\n\n#\n# Submits project files into submit directory\n#\nsubmit: ${SUBMITS}\n	submit ${PROJECT} ${SUBMITS}\n\n#\n# Everything\n#\nagain:\n	gmake --no-print-directory spotless deps all lis\n\nifeq \"${NEEDINCL}\" \"\"\ninclude ${DEPSFILE}\nendif\n",
+			"cc",
+			"}:",
+			"cc",
+			"remove",
+			" :",
+			"str_out_file",
+			"str_out_name",
+			"outputFile",
+			"demo.css",
+			"af-form",
+			"af-show-input",
+			"af",
+			"$message",
+			"incorrect",
+			"thank-you.html",
+			"captcha",
+			"submit",
+			"normalize",
+			"86080",
+			"modern",
+			"try.jpg",
+			"modern",
+			"bower",
+			"captcha",
+			"50px",
+			"up-arrow",
+			"up_arrow",
+			"submit",
+			"nav",
+			"50px",
+			"200px",
+			"galPageLinks",
+			"nav",
+			"root",
+			"new_astree",
+			"ROOT",
+			"errors",
+			"captcha code",
+			"captcha does not",
+			"please provide",
+			"p>",
+			"p",
+			"monofont",
+			"cb",
+			"backGall",
+			"insert",
+			"bgMusic",
+			"title",
+			"100",
+			"background",
+			"ending",
+			"err",
+			"a",
+			"<p>",
+			"auto",
+			"underline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 198.0
+	},
+	"output.sftp":
+	{
+		"height": 198.0
+	},
+	"pinned_build_system": "Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+	"project": "website_for_seth.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"styles\\main.css"
+			],
+			[
+				"gall",
+				"gallery1.html"
+			],
+			[
+				"form",
+				"send_form_email.php"
+			],
+			[
+				"sca",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\3\\tmgreen@unix.ic.ucsc.edu\\scanner.l"
+			],
+			[
+				"scan",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\3\\tmgreen@unix.ic.ucsc.edu\\scanner.l"
+			],
+			[
+				"sc",
+				"scanner.l"
+			],
+			[
+				"",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\8\\tmgreen@unix.ic.ucsc.edu\\lyutils.cpp"
+			],
+			[
+				"main",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\2\\tmgreen@unix.ic.ucsc.edu\\main.cpp"
+			],
+			[
+				"l",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\5\\tmgreen@unix.ic.ucsc.edu\\lyutils.cpp"
+			],
+			[
+				"angu",
+				"AngularJS\\firstpage.html"
+			],
+			[
+				"an",
+				"AngularJS\\angular.min.js"
+			],
+			[
+				"ly",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\5\\tmgreen@unix.ic.ucsc.edu\\lyutils.cpp"
+			],
+			[
+				"make",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\11\\tmgreen@unix.ic.ucsc.edu\\Makefile"
+			],
+			[
+				"mak",
+				"C:\\Users\\Taoh\\Documents\\MobaXterm\\slash\\RemoteFiles\\21\\tmgreen@unix.ic.ucsc.edu\\Makefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Taoh\\Google Drive\\CMPS112-Old_Exams\\.solutions\\solutions-workspace.sublime-workspace"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 397.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
