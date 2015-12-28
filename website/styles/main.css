@@ -238,7 +238,8 @@
 }
 
 .galleryPageLinks > li a.active {
-    background-color: #4CAF50;
+    background-color: #008080;
+    cursor: default;
 }
 
 @font-face {
