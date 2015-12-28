@@ -87,8 +87,8 @@ function IsInjected($str)
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<!-- tab icon and shortcut icon -->
-		<link rel="icon" type="image/png" href="Art/favicon.png"/>
-		<link rel="shortcut icon" href="Art/favicon.png" />
+		<link rel="icon" type="image/png" href="images/favicon.png"/>
+		<link rel="shortcut icon" href="images/favicon.png" />
 
 		<!-- style for submit button -->
 		<!-- define some style elements-->
@@ -111,10 +111,6 @@ function IsInjected($str)
 				font-family : Verdana, Helvetica, sans-serif;
 				font-size : 12px;
 				color: red;
-			}
-			.navLinks {
-				style="font-family: 'Oswald', sans-serif; 
-				font-size: 1.2em;
 			}
 		</style>
 		<!-- submit button style -->
@@ -143,8 +139,7 @@ function IsInjected($str)
 		</style>
 
 
-		<link rel="stylesheet" media="screen and (min-device-width: 800px)" href="styles/main.css" />
-	    <link rel="stylesheet" media="screen and (max-device-width: 799px)" href="styles/mobile.css" />
+		<link rel="stylesheet" href="styles/main.css" />
 
 	    <!-- for fancy form	 -->
         <link rel="stylesheet" type="text/css" href="css/contact_form.css" />
@@ -167,10 +162,10 @@ function IsInjected($str)
 		<header>
 		    <div id="nav">
 		      <ul>
-		        <li><a class="navLinks" href="index.html">Home</a></li>
-		        <li><a class="navLinks" href="gallery.html">Gallery</a></li>
-		        <li><a class="navLinks" href="about.html">About</a></li>
-		        <li><a class="navLinks active" href="contact.php">Contact</a></li>
+		        <li><a class="navLinks" style= "font-size: 1.2em"  href="index.html">Home</a></li>
+		        <li><a class="navLinks" style= "font-size: 1.2em" href="Chain_Maille.html">Gallery</a></li>
+		        <li><a class="navLinks" style= "font-size: 1.2em" href="about.html">About</a></li>
+		        <li><a class="navLinks active" style= "font-size: 1.2em" >Contact</a></li>
 		      </ul>
 		    </div>
 	    </header>

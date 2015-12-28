@@ -1,4 +1,8 @@
 
+* {
+  margin: 0;
+  padding: 0;
+}
 
 .myBody {
   margin: 0;
@@ -114,7 +118,7 @@
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.3999996185303px;
+	line-height: 26px;
 	background: #2447B2;
 	border: 1px solid #696373;
 	border-radius: 5px 5px 0 0;
@@ -153,7 +157,7 @@
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.3999996185303px;
+	line-height: 26px;
 	background: #2447B2;
 	opacity: .8;
 	border: 1px solid #696373;
@@ -192,14 +196,79 @@
   
 }
 
-
 .contactForm {
 	padding-top: 40px;
 	margin: 0 auto; 
 	width:380px;
 }
 
+.galleryPageLinks {
+    margin-top: 40px;
+
+    list-style-type: none;
+    overflow: hidden;
+    /*background-color: #333;*/
+    text-align: center;
+}
+
+.galleryPageLinks > li {
+    margin-bottom: 5px;
+    display: inline-block;
+    background-color: #333;
+    border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-mos-border-radius: 10px 10px 10px 10px;
+}
+
+.galleryPageLinks > li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+    border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-mos-border-radius: 10px 10px 10px 10px;
+}
+
+/* Change the link color to #111 (black) on hover */
+.galleryPageLinks > li a:hover {
+    background-color: #111;
+}
+
+.galleryPageLinks > li a.active {
+    background-color: #4CAF50;
+}
+
 @font-face {
     font-family: 'Adine Kirnberg'; /*a name to be used later*/
     src: url('../Fonts/Adine_Kirnberg.ttf'); /*URL to font*/
+}
+
+
+/*phones and small devices*/
+@media (max-width: 767px) {
+    #nav li {
+      width: 100%;
+      font-family: 'Oswald', sans-serif;
+      line-height: 50px;
+      height: 50px;
+      display: inline-block;
+      border-bottom: 1px solid #888;
+      font-size: 1.5em;
+      margin-right: -4px;
+    }
+
+    .myHeader {
+        display: none;
+    }
+
+    .aboutPanel {
+        width: 90%;
+    }
+
+    .displayNone {
+        display: none;
+    }
 }

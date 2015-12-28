@@ -7,17 +7,20 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<!-- tab icon and shortcut icon -->
-		<link rel="icon" type="image/png" href="Art/favicon.png"/>
-		<link rel="shortcut icon" href="Art/favicon.png" />
+		<link rel="icon" type="image/png" href="images/favicon.png"/>
+		<link rel="shortcut icon" href="images/favicon.png" />
 
 
-		<link rel="stylesheet" media="screen and (min-device-width: 800px)" href="styles/main.css" />
-        <link rel="stylesheet" media="screen and (max-device-width: 799px)" href="styles/mobile.css" />
+		<link rel="stylesheet" href="styles/main.css" />
 
 		<!-- image gallery -->
-		<link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+		<link rel="stylesheet" href="/Chain_Maille.html/blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
 		<link rel="stylesheet" href="css/bootstrap-image-gallery.min.css">
 		<link rel="stylesheet" href="css/gallery.css">
+
+        <!--bootstrap-->
+        <!--<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">-->
+
 
 </head>
 <body id="bootstrap_gallery" class="myBody">
@@ -25,20 +28,26 @@
     <header>
 	    <div id="nav">
 	      <ul>
-
 	        <li><a href="index.html">Home</a></li>
-	        <li><a class="active" href="gallery.html">Gallery</a></li>
+	        <li><a class="active">Gallery</a></li>
 	        <li><a href="about.html">About</a></li>
 	        <li><a href="contact.php">Contact</a></li>
-
 	      </ul>
 	    </div>
     </header>
 
+
+    <ul class="galleryPageLinks">
+        <li><a class="active">Chain Maille</a></li>
+        <li><a href="Bicycle_Maille.html">Bicycle Maille</a></li>
+        <li><a href="Motorcycle_Maille.html">Motorcycle Maille</a></li>
+        <li><a href="Knots.html">Knots</a></li>
+        <li><a href="Paper_Craft.html">Paper Craft </a></li>
+    </ul>
+
 	<div class="container">
-    <br>
     <!-- The container for the list of example images -->
-    <div id="links" style="text-align: center">
+    <div id="links" style="text-align: center; margin-top: 40px;">
 
 
         <a href="images/4-2%20.JPG" title="4-2" data-gallery>
@@ -187,10 +196,16 @@
         </div>
     </div>
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<!-- Bootstrap JS is not required, but included for the responsive demo navigation and button states -->
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-<script src="js/bootstrap-image-gallery.js"></script>
+
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Bootstrap JS is not required, but included for the responsive demo navigation and button states -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+    <script src="js/bootstrap-image-gallery.js"></script>
+
+    <!--bootstrap js-->
+    <!--<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
 </body>
 </html>
