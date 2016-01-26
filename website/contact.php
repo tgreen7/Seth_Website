@@ -87,8 +87,8 @@ function IsInjected($str)
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<!-- tab icon and shortcut icon -->
-		<link rel="icon" type="image/png" href="images/favicon.png"/>
-		<link rel="shortcut icon" href="images/favicon.png" />
+		<link rel="icon" type="image/png" href="images/favicon.jpg"/>
+		<link rel="shortcut icon" href="images/favicon.jpg" />
 
 		<!-- style for submit button -->
 		<!-- define some style elements-->
@@ -205,7 +205,7 @@ function IsInjected($str)
 					<div class="af-outer">
 						<div class="af-inner">
 						  <label for='message'>Message</label>
-							<textarea name="message" rows=8 cols=28> <?php echo htmlentities($user_message) ?></textarea>
+							<textarea name="message" placeholder="Your message here..." rows=8 cols=28><?php echo htmlentities($user_message) ?></textarea>
 
 						</div>
 					</div>
